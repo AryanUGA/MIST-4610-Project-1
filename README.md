@@ -97,12 +97,10 @@ Justification: This would be useful for a clinic as it would help a manager see 
 ![Screenshot (297)](https://github.com/user-attachments/assets/9681e204-1718-4787-b5f6-9c5e481d5fc9)
 Justification: This is important as it showcases doctors who have not issued prescriptions. This is important as it can provide valuable information in assessing the roles, responsibilities, contributions of each doctor. This can highlight any gaps in patient care to ensure that the clinic process is optimized and following proper procedures.
 
-9.  Write a query to show doctor name and supervisor and difference in years of experience of those doctors who have more years of experience than their supervisor
-Write a query to list out the names of doctors and their supervisor. List out the difference in years of experience between the doctor and their supervisor too.
-
+9. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction.
 
 ![Screenshot (298)](https://github.com/user-attachments/assets/bd29137c-78cb-4967-a9b5-ba7fd8be28d2)
-Justification: This query is important from a managerial perspective because it shows the hierarchical structure of doctors. This is important to identify doctors who have more years of experience than their supervisors to identify errors in the hierarchical structure. This query shows the experience gap between doctors and their supervisors to better understand how the hierarchical structure is organized. Management can use this information to create different training programs that would best apply to the different experiences of each doctor. 
+Justification: This query is important from a managerial perspective because it ensures patient safety. This query allows the clinic to make sure patients test results are received in a timely manner and can receive prompt medical attention. This query checks for allergy information which will prevent doctors from prescribing the wrong medication, reducing liabilities. 
 
 10. Write a query to show the patient’s first name, last name, total number of appointments, and the total number of positive test results
     
