@@ -82,10 +82,10 @@ Justification: This query is important from a managerial perspective because it 
 ![Screenshot (294)](https://github.com/user-attachments/assets/dd6ec149-2677-443e-8d5e-b822630702af)
 Justification: This query would be a really useful query for the office manager or bill collector to find how much an individual patient owes the clinic and then be able to send them a bill. Also, it would allow the office to keep up with patients who may owe too much to give treatment without taking payment of some sort first.
 
-6. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
+6. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
 
 ![Screenshot (295)](https://github.com/user-attachments/assets/f6f494d5-c959-41a5-8bb8-3f4de3eba94a)
-Justification: This would be useful for a clinic as it would help a manager see if a doctor is a specialist of some type as a specialist visit on average costs more than a general doctor visit may cost. It would also help the office manager adjust hourly rates charged if needed.
+Justification: This query would be useful for the office manager to help with scheduling nurses and assigning them what appointments they work. It also could be used to change the date in the query as needed to continue building the office schedule.
 
 7. Write a query to list out the Id, first name, and last name of doctors in the medical clinic who have not wrote a prescription
 
