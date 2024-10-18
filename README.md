@@ -77,10 +77,10 @@ Justification: This query would be helpful for the office manager of a clinic al
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
 Justification: This query is important from a managerial perspective because it shows the hierarchical structure of doctors. This is important to identify doctors who have more years of experience than their supervisors to identify errors in the hierarchical structure. This query shows the experience gap between doctors and their supervisors to better understand how the hierarchical structure is organized. Management can use this information to create different training programs that would best apply to the different experiences of each doctor. 
 
-5. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
+5. Write a query to find patients with unpaid bills with the total amount due greater than 100 and ordered from highest to lowest
 
 ![Screenshot (294)](https://github.com/user-attachments/assets/dd6ec149-2677-443e-8d5e-b822630702af)
-Justification: This query would be useful for the office manager to help with scheduling nurses and assigning them what appointments they work. It also could be used to change the date in the query as needed to continue building the office schedule.
+Justification: This query would be a really useful query for the office manager or bill collector to find how much an individual patient owes the clinic and then be able to send them a bill. Also, it would allow the office to keep up with patients who may owe too much to give treatment without taking payment of some sort first.
 
 6. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
 
