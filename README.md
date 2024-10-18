@@ -72,10 +72,10 @@ Justification: This query gives the number of times a prescription was written b
 ![Screenshot (291)](https://github.com/user-attachments/assets/d125356a-a23f-4a2a-8da0-66adad6aa71c)
 Justification: This query would be helpful for the office manager of a clinic allowing them to keep up with who gets paid what, and at year end who is up for what type of raise potentially.
 
-4. Write a query to find patients with unpaid bills with the total amount due greater than 100 and ordered from highest to lowest
+4. Write a query to list out the names of doctors and their supervisor. List out the difference in years of experience between the doctor and their supervisor too.
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
-Justification: This query would be a really useful query for the office manager or bill collector to find how much an individual patient owes the clinic and then be able to send them a bill. Also, it would allow the office to keep up with patients who may owe too much to give treatment without taking payment of some sort first.
+Justification: This query is important from a managerial perspective because it shows the hierarchical structure of doctors. This is important to identify doctors who have more years of experience than their supervisors to identify errors in the hierarchical structure. This query shows the experience gap between doctors and their supervisors to better understand how the hierarchical structure is organized. Management can use this information to create different training programs that would best apply to the different experiences of each doctor. 
 
 5. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
 
