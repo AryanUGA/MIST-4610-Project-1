@@ -92,10 +92,10 @@ Justification: This query would be useful for the office manager to help with sc
 ![Screenshot (296)](https://github.com/user-attachments/assets/b1d1a4c0-13d1-4c7f-9da0-20ec6c7a863f)
 Justification: This would be useful for a clinic as it would help a manager see if a doctor is a specialist of some type as a specialist visit on average costs more than a general doctor visit may cost. It would also help the office manager adjust hourly rates charged if needed.
 
-8. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction
+8. Write a query to list out the Id, first name, and last name of doctors in the medical clinic who have not wrote a prescription
 
 ![Screenshot (297)](https://github.com/user-attachments/assets/9681e204-1718-4787-b5f6-9c5e481d5fc9)
-Justification: This query is important from a managerial perspective because it ensures patient safety. This query allows the clinic to make sure patients test results are received in a timely manner and can receive prompt medical attention. This query checks for allergy information which will prevent doctors from prescribing the wrong medication, reducing liabilities. 
+Justification: This is important as it showcases doctors who have not issued prescriptions. This is important as it can provide valuable information in assessing the roles, responsibilities, contributions of each doctor. This can highlight any gaps in patient care to ensure that the clinic process is optimized and following proper procedures.
 
 9.  Write a query to show doctor name and supervisor and difference in years of experience of those doctors who have more years of experience than their supervisor
 Write a query to list out the names of doctors and their supervisor. List out the difference in years of experience between the doctor and their supervisor too.
