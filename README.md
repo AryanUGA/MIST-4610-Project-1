@@ -87,10 +87,10 @@ Justification: This query would be a really useful query for the office manager 
 ![Screenshot (295)](https://github.com/user-attachments/assets/f6f494d5-c959-41a5-8bb8-3f4de3eba94a)
 Justification: This query would be useful for the office manager to help with scheduling nurses and assigning them what appointments they work. It also could be used to change the date in the query as needed to continue building the office schedule.
 
-7. Write a query to list out the Id, first name, and last name of doctors in the medical clinic who have not wrote a prescription
+7. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/b1d1a4c0-13d1-4c7f-9da0-20ec6c7a863f)
-Justification: This is important as it showcases doctors who have not issued prescriptions. This is important as it can provide valuable information in assessing the roles, responsibilities, contributions of each doctor. This can highlight any gaps in patient care to ensure that the clinic process is optimized and following proper procedures.
+Justification: This would be useful for a clinic as it would help a manager see if a doctor is a specialist of some type as a specialist visit on average costs more than a general doctor visit may cost. It would also help the office manager adjust hourly rates charged if needed.
 
 8. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction
 
